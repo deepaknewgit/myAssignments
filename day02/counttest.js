@@ -8,7 +8,7 @@ for(let i=0;i<=orginalword.length;i++)
     {
     
      console.log(orginalword.charAt(i)+":"+count++)
-     
+     //New Change to PUll
 
     }
 
